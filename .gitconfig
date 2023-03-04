@@ -1,0 +1,14 @@
+ 
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = mfernandeza
+	email = 1144098122@icesi.edu.co
+
+[alias]
+logx = log --color --graph --pretty=format:'%C(yellow)%h%Creset -%C(auto)%d%Creset %s %Cgreen[%cr] %C(auto)<- %an%Creset' --abbrev-commit
+
+
+
+[init]
+	defaultBranch = main
