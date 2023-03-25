@@ -12,3 +12,4 @@ logx = log --color --graph --pretty=format:'%C(yellow)%h%Creset -%C(auto)%d%Cres
 
 [init]
 	defaultBranch = main
+	defailtBranch = main

@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677286445,,"wq"
+|2,0,1678561526,,"wq"
+:qa!
+|2,0,1678561455,,"qa!"
+:qw!
+|2,0,1678561447,,"qw!"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +27,90 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+	Taller v1 git
+|3,0,1,1,1,0,1678561420,"Taller v1 git"
+"2	LINE	0
+	Taller v1 git
+|3,0,2,1,1,0,1678561269,"Taller v1 git"
+"a	CHAR	0
+	!a€kb€kb
+|3,0,10,0,1,0,1678561340,"!a€kb€kb"
+""-	CHAR	0
+	a
+|3,1,36,0,1,0,1678561503,"a"
 
 # File marks:
-'0  7  2  /mnt/c/Icesi/hola.txt
-|4,48,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+'0  3  20  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,48,3,20,1678561526,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'1  3  35  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,49,3,35,1678561455,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'2  1  16  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,50,1,16,1678561358,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'3  1  16  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,51,1,16,1678561358,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'4  1  16  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,52,1,16,1678561358,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'5  1  16  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,53,1,16,1678561358,"/mnt/d/Nube/repo_ml/taller_git.txt"
+'6  7  2  /mnt/c/Icesi/hola.txt
+|4,54,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
 
 # Jumplist (newest first):
+-'  3  20  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,39,3,20,1678561526,"/mnt/d/Nube/repo_ml/taller_git.txt"
+-'  1  0  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,39,1,0,1678561480,"/mnt/d/Nube/repo_ml/taller_git.txt"
+-'  3  35  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,39,3,35,1678561455,"/mnt/d/Nube/repo_ml/taller_git.txt"
+-'  1  12  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,39,1,12,1678561416,"/mnt/d/Nube/repo_ml/taller_git.txt"
+-'  1  16  /mnt/d/Nube/repo_ml/taller_git.txt
+|4,39,1,16,1678561358,"/mnt/d/Nube/repo_ml/taller_git.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
+-'  7  2  /mnt/c/Icesi/hola.txt
+|4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
 -'  7  2  /mnt/c/Icesi/hola.txt
 |4,39,7,2,1677286445,"/mnt/c/Icesi/hola.txt"
 -'  1  0  /mnt/c/Icesi/hola.txt
 |4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
+-'  1  0  /mnt/c/Icesi/hola.txt
+|4,39,1,0,1677286401,"/mnt/c/Icesi/hola.txt"
 
 # History of marks within files (newest to oldest):
+
+> /mnt/d/Nube/repo_ml/taller_git.txt
+	*	1678561520	0
+	"	3	20
+	^	3	21
+	.	3	20
+	+	1	16
+	+	3	35
+	+	1	14
+	+	3	20
 
 > /mnt/c/Icesi/hola.txt
 	*	1677286429	0
